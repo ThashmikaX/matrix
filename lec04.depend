@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1671180223 source:c:\a-kkg\eie\modules\ee2201-computerprogramming2\lecturework\lec04\cmatrix3.cpp
+	"cMatrix3.h"
+
+1671180633 c:\a-kkg\eie\modules\ee2201-computerprogramming2\lecturework\lec04\cmatrix3.h
+	<iostream>
+
+1671179825 source:c:\a-kkg\eie\modules\ee2201-computerprogramming2\lecturework\lec04\main.cpp
+	<iostream>
+	"cMatrix3.h"
+
+1671346980 source:c:\users\janit\downloads\lec04\lec04\cmatrix3.cpp
+	"cMatrix3.h"
+
+1671346864 c:\users\janit\downloads\lec04\lec04\cmatrix3.h
+	<iostream>
+
+1671346825 source:c:\users\janit\downloads\lec04\lec04\main.cpp
+	<iostream>
+	"cMatrix3.h"
+

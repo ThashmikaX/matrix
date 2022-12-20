@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671366439 source:c:\users\janit\downloads\new folder\lec04 (0)\janitha\cmatrix3.cpp
+	"cMatrix3.h"
+
+1671365550 c:\users\janit\downloads\new folder\lec04 (0)\janitha\cmatrix3.h
+	<iostream>
+
+1671351610 source:c:\users\janit\downloads\new folder\lec04 (0)\janitha\main.cpp
+	<iostream>
+	"cMatrix3.h"
+
